@@ -6,6 +6,7 @@
   "hasSampleData": false,
   "language": "en_US",
   "features": [
+    "FinancialServicesUser:10",
     "Communities",
     "ContactsToMultipleAccounts",
     "PersonAccounts"
